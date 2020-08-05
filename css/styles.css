@@ -10373,3 +10373,14 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+/* CSS Próprio */
+.Logo {
+  background-image: url("logo.png");
+  position: absolute;
+  left: 2px;
+  top: 2px;
+  width: 2090px;
+  height: 2531px;
+  z-index: 3;
+}
